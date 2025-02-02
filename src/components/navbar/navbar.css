@@ -1,0 +1,30 @@
+.navbar-logo {
+    height: 35px;
+
+}
+
+nav {
+    background-color: #8a4fff;
+}
+
+
+.dropdown-toggle {
+    background-color: #8a4fff !important;
+    outline: 1px solid transparent;
+    transition: outline-color 0.3s ease, outline-width 0.3s ease;
+    
+    &:focus {
+        outline: 1px solid white !important;
+    }
+    &:hover {
+        outline: 1px solid white;
+    }
+}
+
+.dropdown-item:active {
+    background-color: #8a4fff !important;
+}
+
+
+
+ 
