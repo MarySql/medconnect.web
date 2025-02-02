@@ -54,3 +54,6 @@ medconnect.web/
 
 ## 📜 Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para contribuir! 😊
+
+![Captura de tela 2025-02-02 122722](https://github.com/user-attachments/assets/85311731-d875-4e2f-9706-f28729b01b8f)
+
